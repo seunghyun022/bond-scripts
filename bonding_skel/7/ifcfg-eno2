@@ -1,0 +1,6 @@
+DEVICE=eno2
+USERCTL=no
+MASTER=bond0
+SLAVE=yes
+BOOTPROTO=none
+ONBOOT=yes
